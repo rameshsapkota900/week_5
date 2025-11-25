@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rames\\Desktop\\.net\\week_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA205DA-4535-4D81-9BE3-BD26ECE7EC43}|Week_5\\Week_5.csproj|c:\\users\\rames\\desktop\\.net\\week_5\\week_5\\task5\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA205DA-4535-4D81-9BE3-BD26ECE7EC43}|Week_5\\Week_5.csproj|solutionrelative:week_5\\task5\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA205DA-4535-4D81-9BE3-BD26ECE7EC43}|Week_5\\Week_5.csproj|c:\\users\\rames\\desktop\\.net\\week_5\\week_5\\task5\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA205DA-4535-4D81-9BE3-BD26ECE7EC43}|Week_5\\Week_5.csproj|solutionrelative:week_5\\task5\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA205DA-4535-4D81-9BE3-BD26ECE7EC43}|Week_5\\Week_5.csproj|c:\\users\\rames\\desktop\\.net\\week_5\\week_5\\task5\\electronicsstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA205DA-4535-4D81-9BE3-BD26ECE7EC43}|Week_5\\Week_5.csproj|solutionrelative:week_5\\task5\\electronicsstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA205DA-4535-4D81-9BE3-BD26ECE7EC43}|Week_5\\Week_5.csproj|c:\\users\\rames\\desktop\\.net\\week_5\\week_5\\task5\\oop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA205DA-4535-4D81-9BE3-BD26ECE7EC43}|Week_5\\Week_5.csproj|solutionrelative:week_5\\task5\\oop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA205DA-4535-4D81-9BE3-BD26ECE7EC43}|Week_5\\Week_5.csproj|c:\\users\\rames\\desktop\\.net\\week_5\\week_5\\task4\\absbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA205DA-4535-4D81-9BE3-BD26ECE7EC43}|Week_5\\Week_5.csproj|solutionrelative:week_5\\task4\\absbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA205DA-4535-4D81-9BE3-BD26ECE7EC43}|Week_5\\Week_5.csproj|C:\\Users\\rames\\Desktop\\.net\\week_5\\week_5\\task4\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA205DA-4535-4D81-9BE3-BD26ECE7EC43}|Week_5\\Week_5.csproj|solutionrelative:week_5\\task4\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA205DA-4535-4D81-9BE3-BD26ECE7EC43}|Week_5\\Week_5.csproj|C:\\Users\\rames\\Desktop\\.net\\week_5\\week_5\\task4\\abscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA205DA-4535-4D81-9BE3-BD26ECE7EC43}|Week_5\\Week_5.csproj|solutionrelative:week_5\\task4\\abscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElectronicsStore.cs",
+              "DocumentMoniker": "C:\\Users\\rames\\Desktop\\.net\\Week_5\\Week_5\\Task5\\ElectronicsStore.cs",
+              "RelativeDocumentMoniker": "Week_5\\Task5\\ElectronicsStore.cs",
+              "ToolTip": "C:\\Users\\rames\\Desktop\\.net\\Week_5\\Week_5\\Task5\\ElectronicsStore.cs",
+              "RelativeToolTip": "Week_5\\Task5\\ElectronicsStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:43:40.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "C:\\Users\\rames\\Desktop\\.net\\week_5\\Week_5\\Task5\\Smartphone.cs",
+              "RelativeDocumentMoniker": "Week_5\\Task5\\Smartphone.cs",
+              "ToolTip": "C:\\Users\\rames\\Desktop\\.net\\week_5\\Week_5\\Task5\\Smartphone.cs",
+              "RelativeToolTip": "Week_5\\Task5\\Smartphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:42:14.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\rames\\Desktop\\.net\\week_5\\Week_5\\Task5\\Laptop.cs",
+              "RelativeDocumentMoniker": "Week_5\\Task5\\Laptop.cs",
+              "ToolTip": "C:\\Users\\rames\\Desktop\\.net\\week_5\\Week_5\\Task5\\Laptop.cs",
+              "RelativeToolTip": "Week_5\\Task5\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:42:04.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OOP.cs",
+              "DocumentMoniker": "C:\\Users\\rames\\Desktop\\.net\\week_5\\Week_5\\Task5\\OOP.cs",
+              "RelativeDocumentMoniker": "Week_5\\Task5\\OOP.cs",
+              "ToolTip": "C:\\Users\\rames\\Desktop\\.net\\week_5\\Week_5\\Task5\\OOP.cs",
+              "RelativeToolTip": "Week_5\\Task5\\OOP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:41:51.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Abstraction.cs",
+              "DocumentMoniker": "C:\\Users\\rames\\Desktop\\.net\\week_5\\Week_5\\Task4\\Abstraction.cs",
+              "RelativeDocumentMoniker": "Week_5\\Task4\\Abstraction.cs",
+              "ToolTip": "C:\\Users\\rames\\Desktop\\.net\\week_5\\Week_5\\Task4\\Abstraction.cs",
+              "RelativeToolTip": "Week_5\\Task4\\Abstraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T03:14:20.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AbsBike.cs",
+              "DocumentMoniker": "C:\\Users\\rames\\Desktop\\.net\\week_5\\Week_5\\Task4\\AbsBike.cs",
+              "RelativeDocumentMoniker": "Week_5\\Task4\\AbsBike.cs",
+              "ToolTip": "C:\\Users\\rames\\Desktop\\.net\\week_5\\Week_5\\Task4\\AbsBike.cs",
+              "RelativeToolTip": "Week_5\\Task4\\AbsBike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T03:14:17.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AbsCar.cs",
+              "DocumentMoniker": "C:\\Users\\rames\\Desktop\\.net\\week_5\\Week_5\\Task4\\AbsCar.cs",
+              "RelativeDocumentMoniker": "Week_5\\Task4\\AbsCar.cs",
+              "ToolTip": "C:\\Users\\rames\\Desktop\\.net\\week_5\\Week_5\\Task4\\AbsCar.cs",
+              "RelativeToolTip": "Week_5\\Task4\\AbsCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T03:13:33.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

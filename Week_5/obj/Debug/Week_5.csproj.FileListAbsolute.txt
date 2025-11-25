@@ -1,0 +1,8 @@
+C:\Users\rames\Desktop\.net\week_5\Week_5\bin\Debug\Week_5.exe.config
+C:\Users\rames\Desktop\.net\week_5\Week_5\bin\Debug\Week_5.exe
+C:\Users\rames\Desktop\.net\week_5\Week_5\bin\Debug\Week_5.pdb
+C:\Users\rames\Desktop\.net\week_5\Week_5\obj\Debug\Week_5.csproj.AssemblyReference.cache
+C:\Users\rames\Desktop\.net\week_5\Week_5\obj\Debug\Week_5.csproj.CoreCompileInputs.cache
+C:\Users\rames\Desktop\.net\week_5\Week_5\obj\Debug\Week_5.exe
+C:\Users\rames\Desktop\.net\week_5\Week_5\obj\Debug\Week_5.pdb
+C:\Users\rames\Desktop\.net\week_5\Week_5\obj\Debug\Week_5.exe.config
